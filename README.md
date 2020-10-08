@@ -1,7 +1,7 @@
 Sudoku
 ======================
 My stab at solving and generating [Sudoku puzzles!](https://en.wikipedia.org/wiki/Sudoku)
- ![image](https://github.com/babinu-uthup-4JESUS/sudoku_solve_generate/blob/main/sudoku_logo.png)
+ ![image](https://github.com/babinu-uthup-4JESUS/sudoku_solve_generate/blob/main/sudoku-logo.png)
 
 ## Table of content
 
