@@ -3,7 +3,7 @@ Sudoku
 My stab at solving and generating [Sudoku puzzles!](https://en.wikipedia.org/wiki/Sudoku)
  ![image](https://github.com/babinu-uthup-4JESUS/sudoku_solve_generate/blob/main/sudoku-logo.png)
 
-## Table of content
+## Table of contents
 
 - [Overview](#overview)
 - [Data](#data)
@@ -25,8 +25,8 @@ My stab at solving and generating [Sudoku puzzles!](https://en.wikipedia.org/wik
 
 ## Overview
 
-We have the following problem description from it's [corresponding kaggle competition link](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview/description) :
->In this competition you will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company. We are asking you to predict total sales for every product and store in the next month. By solving this competition you will be able to apply and enhance your data science skills.
+We have the following problem description from [wikipedia.](https://en.wikipedia.org/wiki/Sudoku) :
+>Sudoku (数独, sūdoku, digit-single) (/suːˈdoʊkuː/, /-ˈdɒk-/, /sə-/, originally called Number Place)[1] is a logic-based,[2][3] combinatorial[4] number-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called "boxes", "blocks", or "regions") contain all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution.
 
 ## Data
 
